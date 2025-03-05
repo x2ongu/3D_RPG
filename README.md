@@ -1,4 +1,4 @@
-# [Unity 3D]3D_RPG Portfolio
+# [Unity 3D] 3D_RPG Portfolio
 
 ## 1. 소개
 
@@ -6,7 +6,7 @@
   
 - 개발 기간: 2024.08.05 ~ 2025.01.31(약 6개월)
   
-- Repository에는 소스코드만 등록되어 있습니다.
+- Repository에는 소스코드만 등록되어 있습니다.<br><br><br>
 
 
 
