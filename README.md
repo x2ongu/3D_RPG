@@ -9,17 +9,13 @@
 - Repository에는 소스코드만 등록되어 있습니다.<br><br><br>
 
 
-
-
 ## 2. 개발 환경
 
 - Unity 2022.3.16f1 LTS
   
 - C#
   
-- Window 10
-
-
+- Window 10<br><br><br>
 
 
 ## 2. 기능
@@ -42,9 +38,7 @@
   
 - **퀘스트 시스템**: Google Sheets를 활용하여 퀘스트 데이터를 관리하고 진행 상황을 추적.
   
-- **저장 및 불러오기**: JsonUtility를 사용해 플레이어와 몬스터의 데이터를 저장하고 불러오는 기능 구현.
-  
-
+- **저장 및 불러오기**: JsonUtility를 사용해 플레이어와 몬스터의 데이터를 저장하고 불러오는 기능 구현.<br><br><br>
 
 
 ## 3. 기술 스택
@@ -75,17 +69,13 @@
   
 - **Cinemachine Virtual Camera**: 3단 줌 기능 구현
   
-- **Project**: 필드 보스 공격 위험 구역 표시
-
-
+- **Project**: 필드 보스 공격 위험 구역 표시<br><br><br>
 
 
 ## 4. 설치 및 실행 방법
 1. [게임 실행 파일 다운로드](https://drive.google.com/drive/folders/1vDj_LXFu0k16GR61LfcWAPkyCtxWrXD4?usp=sharing)
 2. `3D_RPG_장성우_포트폴리오.zip` 파일을 압축 해제합니다.
-3. `3D_RPG.exe` 파일을 실행하여 게임을 시작합니다.
-
-
+3. `3D_RPG.exe` 파일을 실행하여 게임을 시작합니다.<br><br><br>
 
 
 ## 5. License
