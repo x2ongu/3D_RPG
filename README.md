@@ -44,20 +44,32 @@
 ## 3. 기술 스택
 
 - **Unity**: 게임 개발 엔진
+  
 - **C#**: 게임 로직 및 스크립트 작성
+  
 - **Visual Studio**: 코드 편집기
+  
 - **싱글톤**: Manager.cs 등 전역에서 하나만 필요한 객체 관리
+  
 - **오브젝트 풀링**: 성능 최적화를 위한 객체 재사용 기법
+  
 - **FSM (Finite State Machine)**: 적 AI 구현 및 상태 기반 행동 처리
+  
 - **Google Sheets**: 퀘스트 데이터 관리
+  
 - **JsonUtility**: JSON 파일을 사용한 Player 및 Monster 스탯 관리
+  
 - **NavMesh**: AI 몬스터 및 플레이어 이동 구현
+  
 - **UI 자동화 시스템**: 동적 UI 요소 관리 및 효율적 바인딩
+  
 - **Scriptable Object**: 아이템 및 스킬 데이터 관리
+  
 - **Render Texture**: 미니맵 및 UI 내 실시간 렌더링
+  
 - **Cinemachine Virtual Camera**: 3단 줌 기능 구현
+  
 - **Project**: 필드 보스 공격 위험 구역 표시
-
 
 
 ## 4. 설치 및 실행 방법
