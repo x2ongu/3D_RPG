@@ -78,10 +78,9 @@
 3. `3D_RPG.exe` 파일을 실행하여 게임을 시작합니다.<br><br><br>
 
 ## 6. 영상 링크
-[유튜브 바로가기](https://youtu.be/nCCeOXKd1NQ)
+[유튜브 바로가기](https://youtu.be/nCCeOXKd1NQ)<br><br><br>
 
-
-## 6. License
+## 7. License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
 
