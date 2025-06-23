@@ -77,6 +77,9 @@
 2. `3D_RPG_장성우_포트폴리오.zip` 파일을 압축 해제합니다.
 3. `3D_RPG.exe` 파일을 실행하여 게임을 시작합니다.<br><br><br>
 
+## 6. 영상 링크
+[유튜브 바로가기](https://youtu.be/nCCeOXKd1NQ)
+
 
 ## 6. License
 
